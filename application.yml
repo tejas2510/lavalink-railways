@@ -1,12 +1,12 @@
 server:
-  port: ${PORT}
+  port: 443
   address: 0.0.0.0
 spring:
   main:
     banner-mode: log
 lavalink:
   server:
-    password: youshallnotpass
+    password: kekpromax
     sources:
       youtube: true
       bandcamp: true
